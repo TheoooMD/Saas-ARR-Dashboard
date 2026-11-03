@@ -6,6 +6,8 @@
 ## Overview
 End-to-end FP&A analytics pipeline simulating a real B2B SaaS monthly reporting workflow — from raw data to board-ready report.
 
+📣 Read the project write-up on [LinkedIn](https://www.linkedin.com/posts/minh-duc-theo-ho_saasmonthlyreportdec2024-ugcPost-7462271520816529408-ZZPI/).
+
 ## Stack
 | Layer | Tool |
 |---|---|
