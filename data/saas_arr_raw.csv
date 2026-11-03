@@ -1,0 +1,1007 @@
+Customer_ID,Segment,Region,MRR,Type,Month
+C0001,Enterprise,EMEA,12163.16,New,2023-01
+C0002,Enterprise,North America,20591.35,New,2023-01
+C0003,Mid-Market,EMEA,2190.7,New,2023-01
+C0004,Enterprise,North America,18234.32,New,2023-01
+C0005,SMB,EMEA,1492.25,New,2023-01
+C0006,Mid-Market,North America,3669.14,New,2023-01
+C0007,SMB,EMEA,571.42,New,2023-01
+C0008,Mid-Market,North America,3291.88,New,2023-01
+C0009,SMB,North America,945.88,New,2023-01
+C0010,Mid-Market,North America,3587.13,New,2023-01
+C0011,Enterprise,North America,10122.04,New,2023-01
+C0012,SMB,North America,798.4,New,2023-01
+C0013,SMB,APAC,914.78,New,2023-01
+C0014,Enterprise,North America,19241.48,New,2023-01
+C0015,SMB,LATAM,1754.04,New,2023-01
+C0016,SMB,North America,1070.8,New,2023-01
+C0017,SMB,North America,903.96,New,2023-01
+C0018,Mid-Market,APAC,5888.21,New,2023-02
+C0019,SMB,North America,1539.52,New,2023-02
+C0020,Enterprise,North America,24821.9,New,2023-02
+C0021,SMB,EMEA,1463.84,New,2023-02
+C0022,SMB,EMEA,689.38,New,2023-02
+C0023,Enterprise,North America,12551.59,New,2023-02
+C0024,Mid-Market,APAC,7258.21,New,2023-02
+C0025,Mid-Market,EMEA,4373.79,New,2023-02
+C0026,SMB,North America,750.3,New,2023-02
+C0027,Mid-Market,EMEA,3576.45,New,2023-02
+C0028,SMB,APAC,978.98,New,2023-02
+C0029,Mid-Market,LATAM,5057.16,New,2023-02
+C0030,Enterprise,North America,9864.04,New,2023-02
+C0031,SMB,EMEA,1017.67,New,2023-02
+C0032,Enterprise,North America,24934.06,New,2023-02
+C0033,Mid-Market,LATAM,7164.68,New,2023-02
+C0034,Enterprise,EMEA,19589.08,New,2023-02
+C0004,Enterprise,North America,-1206.1,Contraction,2023-02
+C0035,SMB,APAC,1861.44,New,2023-03
+C0036,SMB,North America,490.18,New,2023-03
+C0037,Mid-Market,LATAM,6840.65,New,2023-03
+C0038,Mid-Market,North America,5404.14,New,2023-03
+C0039,Enterprise,EMEA,21872.4,New,2023-03
+C0040,SMB,EMEA,513.79,New,2023-03
+C0041,SMB,APAC,580.72,New,2023-03
+C0042,Mid-Market,EMEA,7786.18,New,2023-03
+C0043,SMB,EMEA,1472.77,New,2023-03
+C0044,SMB,North America,1441.87,New,2023-03
+C0045,Mid-Market,APAC,4708.92,New,2023-03
+C0046,Mid-Market,North America,2126.21,New,2023-03
+C0047,SMB,EMEA,312.22,New,2023-03
+C0048,SMB,North America,414.58,New,2023-03
+C0049,Enterprise,North America,16740.65,New,2023-03
+C0050,Mid-Market,North America,5235.4,New,2023-03
+C0007,SMB,EMEA,130.02,Expansion,2023-03
+C0011,Enterprise,North America,2001.62,Expansion,2023-03
+C0013,SMB,APAC,213.44,Expansion,2023-03
+C0015,SMB,LATAM,-74.66,Contraction,2023-03
+C0021,SMB,EMEA,364.44,Expansion,2023-03
+C0023,Enterprise,North America,2473.03,Expansion,2023-03
+C0025,Mid-Market,EMEA,-4373.79,Churn,2023-03
+C0026,SMB,North America,181.94,Expansion,2023-03
+C0033,Mid-Market,LATAM,-7164.68,Churn,2023-03
+C0051,SMB,North America,1484.21,New,2023-04
+C0052,SMB,EMEA,1425.18,New,2023-04
+C0053,Mid-Market,North America,3306.21,New,2023-04
+C0054,Enterprise,EMEA,9036.28,New,2023-04
+C0055,Mid-Market,North America,4860.73,New,2023-04
+C0056,SMB,EMEA,396.7,New,2023-04
+C0057,Mid-Market,APAC,2411.13,New,2023-04
+C0058,Enterprise,APAC,14864.18,New,2023-04
+C0059,SMB,EMEA,1284.16,New,2023-04
+C0060,Enterprise,North America,19175.34,New,2023-04
+C0061,SMB,North America,743.3,New,2023-04
+C0062,SMB,North America,751.54,New,2023-04
+C0063,Enterprise,EMEA,15772.82,New,2023-04
+C0064,SMB,APAC,315.84,New,2023-04
+C0065,SMB,EMEA,469.97,New,2023-04
+C0066,Mid-Market,EMEA,2794.74,New,2023-04
+C0067,Mid-Market,North America,3465.71,New,2023-04
+C0068,Mid-Market,North America,5259.31,New,2023-04
+C0008,Mid-Market,North America,873.3,Expansion,2023-04
+C0021,SMB,EMEA,127.21,Expansion,2023-04
+C0023,Enterprise,North America,1536.79,Expansion,2023-04
+C0024,Mid-Market,APAC,-1067.34,Contraction,2023-04
+C0030,Enterprise,North America,-1399.95,Contraction,2023-04
+C0034,Enterprise,EMEA,2029.34,Expansion,2023-04
+C0037,Mid-Market,LATAM,454.53,Expansion,2023-04
+C0040,SMB,EMEA,87.26,Expansion,2023-04
+C0069,SMB,APAC,342.14,New,2023-05
+C0070,SMB,North America,1882.39,New,2023-05
+C0071,SMB,APAC,1678.27,New,2023-05
+C0072,Mid-Market,EMEA,2648.57,New,2023-05
+C0073,SMB,APAC,678.14,New,2023-05
+C0074,SMB,North America,818.82,New,2023-05
+C0075,SMB,North America,340.23,New,2023-05
+C0076,Enterprise,North America,22694.0,New,2023-05
+C0077,SMB,North America,1390.52,New,2023-05
+C0078,Mid-Market,LATAM,5217.29,New,2023-05
+C0079,SMB,North America,1949.68,New,2023-05
+C0080,Enterprise,LATAM,12512.93,New,2023-05
+C0081,Enterprise,North America,20385.27,New,2023-05
+C0082,Mid-Market,EMEA,5068.54,New,2023-05
+C0083,Mid-Market,EMEA,3528.34,New,2023-05
+C0084,SMB,North America,1873.48,New,2023-05
+C0085,Mid-Market,EMEA,6451.7,New,2023-05
+C0086,SMB,North America,418.96,New,2023-05
+C0011,Enterprise,North America,-781.99,Contraction,2023-05
+C0018,Mid-Market,APAC,-5888.21,Churn,2023-05
+C0031,SMB,EMEA,181.6,Expansion,2023-05
+C0040,SMB,EMEA,-601.05,Churn,2023-05
+C0044,SMB,North America,208.55,Expansion,2023-05
+C0051,SMB,North America,-1484.21,Churn,2023-05
+C0054,Enterprise,EMEA,-593.51,Contraction,2023-05
+C0058,Enterprise,APAC,1148.78,Expansion,2023-05
+C0087,Mid-Market,APAC,4675.48,New,2023-06
+C0088,Enterprise,APAC,15651.19,New,2023-06
+C0089,SMB,APAC,771.43,New,2023-06
+C0090,SMB,North America,706.72,New,2023-06
+C0091,Mid-Market,EMEA,3406.96,New,2023-06
+C0092,Mid-Market,APAC,2483.47,New,2023-06
+C0093,Enterprise,North America,10597.69,New,2023-06
+C0094,Mid-Market,North America,3985.29,New,2023-06
+C0095,Mid-Market,North America,6997.35,New,2023-06
+C0096,Mid-Market,EMEA,7676.37,New,2023-06
+C0097,Enterprise,APAC,17786.74,New,2023-06
+C0098,Mid-Market,APAC,3791.68,New,2023-06
+C0099,Mid-Market,APAC,7014.37,New,2023-06
+C0100,Mid-Market,EMEA,6799.21,New,2023-06
+C0101,SMB,North America,763.99,New,2023-06
+C0102,Mid-Market,North America,6013.24,New,2023-06
+C0010,Mid-Market,North America,489.82,Expansion,2023-06
+C0026,SMB,North America,268.63,Expansion,2023-06
+C0028,SMB,APAC,283.28,Expansion,2023-06
+C0029,Mid-Market,LATAM,95.53,Expansion,2023-06
+C0036,SMB,North America,-71.25,Contraction,2023-06
+C0064,SMB,APAC,73.84,Expansion,2023-06
+C0066,Mid-Market,EMEA,560.54,Expansion,2023-06
+C0067,Mid-Market,North America,-3465.71,Churn,2023-06
+C0103,SMB,North America,1090.0,New,2023-07
+C0104,SMB,North America,348.79,New,2023-07
+C0105,SMB,North America,660.6,New,2023-07
+C0106,SMB,North America,1796.54,New,2023-07
+C0107,SMB,North America,317.26,New,2023-07
+C0108,SMB,North America,1524.13,New,2023-07
+C0109,Mid-Market,EMEA,6143.66,New,2023-07
+C0110,SMB,North America,1647.99,New,2023-07
+C0111,Enterprise,North America,19760.38,New,2023-07
+C0112,Mid-Market,EMEA,4839.56,New,2023-07
+C0113,Mid-Market,North America,6475.61,New,2023-07
+C0114,Mid-Market,EMEA,3625.5,New,2023-07
+C0115,Mid-Market,North America,3155.51,New,2023-07
+C0116,Enterprise,EMEA,20957.22,New,2023-07
+C0008,Mid-Market,North America,282.85,Expansion,2023-07
+C0011,Enterprise,North America,-11341.67,Churn,2023-07
+C0017,SMB,North America,-121.7,Contraction,2023-07
+C0026,SMB,North America,341.98,Expansion,2023-07
+C0030,Enterprise,North America,1616.83,Expansion,2023-07
+C0031,SMB,EMEA,96.22,Expansion,2023-07
+C0036,SMB,North America,-55.1,Contraction,2023-07
+C0057,Mid-Market,APAC,51.8,Expansion,2023-07
+C0077,SMB,North America,110.92,Expansion,2023-07
+C0082,Mid-Market,EMEA,-532.93,Contraction,2023-07
+C0087,Mid-Market,APAC,103.92,Expansion,2023-07
+C0091,Mid-Market,EMEA,985.06,Expansion,2023-07
+C0098,Mid-Market,APAC,872.45,Expansion,2023-07
+C0117,Mid-Market,APAC,7814.33,New,2023-08
+C0118,Mid-Market,North America,3926.35,New,2023-08
+C0119,Enterprise,North America,14997.97,New,2023-08
+C0120,Mid-Market,EMEA,4402.71,New,2023-08
+C0121,SMB,North America,449.7,New,2023-08
+C0122,Mid-Market,North America,6635.29,New,2023-08
+C0123,SMB,APAC,301.96,New,2023-08
+C0124,SMB,North America,392.15,New,2023-08
+C0125,Mid-Market,EMEA,4990.96,New,2023-08
+C0126,Mid-Market,North America,3602.34,New,2023-08
+C0127,Enterprise,North America,22974.39,New,2023-08
+C0128,Mid-Market,North America,5780.13,New,2023-08
+C0129,SMB,EMEA,828.28,New,2023-08
+C0130,Enterprise,North America,11819.91,New,2023-08
+C0131,SMB,North America,1910.0,New,2023-08
+C0132,SMB,North America,1885.51,New,2023-08
+C0007,SMB,EMEA,80.58,Expansion,2023-08
+C0010,Mid-Market,North America,131.89,Expansion,2023-08
+C0017,SMB,North America,-782.26,Churn,2023-08
+C0046,Mid-Market,North America,617.18,Expansion,2023-08
+C0047,SMB,EMEA,92.15,Expansion,2023-08
+C0049,Enterprise,North America,4251.7,Expansion,2023-08
+C0050,Mid-Market,North America,-5235.4,Churn,2023-08
+C0053,Mid-Market,North America,-3306.21,Churn,2023-08
+C0054,Enterprise,EMEA,2212.38,Expansion,2023-08
+C0056,SMB,EMEA,-396.7,Churn,2023-08
+C0061,SMB,North America,-743.3,Churn,2023-08
+C0076,Enterprise,North America,-22694.0,Churn,2023-08
+C0080,Enterprise,LATAM,666.2,Expansion,2023-08
+C0082,Mid-Market,EMEA,-4535.61,Churn,2023-08
+C0084,SMB,North America,-1873.48,Churn,2023-08
+C0090,SMB,North America,-43.31,Contraction,2023-08
+C0104,SMB,North America,-348.79,Churn,2023-08
+C0114,Mid-Market,EMEA,445.72,Expansion,2023-08
+C0133,Mid-Market,LATAM,5949.38,New,2023-09
+C0134,Mid-Market,EMEA,6114.8,New,2023-09
+C0135,SMB,North America,1330.89,New,2023-09
+C0136,Mid-Market,APAC,3717.16,New,2023-09
+C0137,SMB,EMEA,898.95,New,2023-09
+C0138,SMB,EMEA,1452.2,New,2023-09
+C0139,SMB,EMEA,1725.17,New,2023-09
+C0140,SMB,APAC,1398.78,New,2023-09
+C0141,Mid-Market,North America,5477.44,New,2023-09
+C0142,SMB,North America,801.69,New,2023-09
+C0143,SMB,North America,524.67,New,2023-09
+C0144,Mid-Market,LATAM,5185.11,New,2023-09
+C0145,SMB,APAC,736.85,New,2023-09
+C0146,SMB,North America,1671.03,New,2023-09
+C0147,SMB,North America,495.79,New,2023-09
+C0148,SMB,North America,1943.05,New,2023-09
+C0149,SMB,EMEA,1965.9,New,2023-09
+C0005,SMB,EMEA,-1492.25,Churn,2023-09
+C0014,Enterprise,North America,-697.85,Contraction,2023-09
+C0015,SMB,LATAM,289.29,Expansion,2023-09
+C0031,SMB,EMEA,350.47,Expansion,2023-09
+C0043,SMB,EMEA,241.74,Expansion,2023-09
+C0046,Mid-Market,North America,336.43,Expansion,2023-09
+C0052,SMB,EMEA,308.88,Expansion,2023-09
+C0060,Enterprise,North America,-2443.76,Contraction,2023-09
+C0066,Mid-Market,EMEA,-3355.28,Churn,2023-09
+C0070,SMB,North America,-172.48,Contraction,2023-09
+C0071,SMB,APAC,257.92,Expansion,2023-09
+C0079,SMB,North America,-1949.68,Churn,2023-09
+C0083,Mid-Market,EMEA,-155.14,Contraction,2023-09
+C0087,Mid-Market,APAC,70.56,Expansion,2023-09
+C0092,Mid-Market,APAC,565.52,Expansion,2023-09
+C0098,Mid-Market,APAC,-367.38,Contraction,2023-09
+C0100,Mid-Market,EMEA,951.33,Expansion,2023-09
+C0106,SMB,North America,123.5,Expansion,2023-09
+C0111,Enterprise,North America,469.27,Expansion,2023-09
+C0113,Mid-Market,North America,455.48,Expansion,2023-09
+C0121,SMB,North America,109.59,Expansion,2023-09
+C0132,SMB,North America,77.52,Expansion,2023-09
+C0150,Mid-Market,LATAM,6120.93,New,2023-10
+C0151,Mid-Market,North America,2512.19,New,2023-10
+C0152,Mid-Market,EMEA,4235.88,New,2023-10
+C0153,Enterprise,North America,24262.62,New,2023-10
+C0154,SMB,EMEA,998.37,New,2023-10
+C0155,SMB,APAC,1018.99,New,2023-10
+C0156,SMB,North America,788.97,New,2023-10
+C0157,Mid-Market,North America,5044.48,New,2023-10
+C0158,Enterprise,North America,22403.67,New,2023-10
+C0159,Mid-Market,EMEA,2689.31,New,2023-10
+C0160,Mid-Market,North America,4574.67,New,2023-10
+C0161,SMB,EMEA,1356.93,New,2023-10
+C0162,SMB,EMEA,1335.29,New,2023-10
+C0163,SMB,EMEA,349.22,New,2023-10
+C0164,Mid-Market,EMEA,7529.23,New,2023-10
+C0165,Mid-Market,North America,2859.51,New,2023-10
+C0166,SMB,North America,1559.65,New,2023-10
+C0167,SMB,North America,1201.82,New,2023-10
+C0168,Mid-Market,North America,2944.46,New,2023-10
+C0169,Mid-Market,North America,7648.44,New,2023-10
+C0170,SMB,APAC,564.49,New,2023-10
+C0171,SMB,North America,438.69,New,2023-10
+C0009,SMB,North America,208.54,Expansion,2023-10
+C0016,SMB,North America,105.45,Expansion,2023-10
+C0023,Enterprise,North America,2496.35,Expansion,2023-10
+C0026,SMB,North America,266.84,Expansion,2023-10
+C0036,SMB,North America,68.52,Expansion,2023-10
+C0044,SMB,North America,333.89,Expansion,2023-10
+C0049,Enterprise,North America,1774.26,Expansion,2023-10
+C0054,Enterprise,EMEA,2789.14,Expansion,2023-10
+C0059,SMB,EMEA,262.29,Expansion,2023-10
+C0062,SMB,North America,-94.22,Contraction,2023-10
+C0068,Mid-Market,North America,207.06,Expansion,2023-10
+C0070,SMB,North America,86.7,Expansion,2023-10
+C0072,Mid-Market,EMEA,758.3,Expansion,2023-10
+C0094,Mid-Market,North America,578.97,Expansion,2023-10
+C0095,Mid-Market,North America,401.28,Expansion,2023-10
+C0099,Mid-Market,APAC,605.84,Expansion,2023-10
+C0105,SMB,North America,184.7,Expansion,2023-10
+C0107,SMB,North America,-40.64,Contraction,2023-10
+C0114,Mid-Market,EMEA,806.85,Expansion,2023-10
+C0115,Mid-Market,North America,684.49,Expansion,2023-10
+C0124,SMB,North America,92.68,Expansion,2023-10
+C0133,Mid-Market,LATAM,191.39,Expansion,2023-10
+C0139,SMB,EMEA,209.37,Expansion,2023-10
+C0140,SMB,APAC,256.6,Expansion,2023-10
+C0143,SMB,North America,125.48,Expansion,2023-10
+C0147,SMB,North America,116.2,Expansion,2023-10
+C0149,SMB,EMEA,-1965.9,Churn,2023-10
+C0172,Enterprise,North America,24110.36,New,2023-11
+C0173,Mid-Market,North America,2825.39,New,2023-11
+C0174,Enterprise,APAC,9719.39,New,2023-11
+C0175,SMB,APAC,1802.26,New,2023-11
+C0176,Enterprise,North America,21027.23,New,2023-11
+C0177,Enterprise,North America,10758.2,New,2023-11
+C0178,SMB,EMEA,1675.37,New,2023-11
+C0179,Enterprise,North America,14984.6,New,2023-11
+C0180,SMB,North America,1055.14,New,2023-11
+C0181,Mid-Market,EMEA,4693.57,New,2023-11
+C0182,Mid-Market,North America,6851.74,New,2023-11
+C0183,Mid-Market,APAC,4207.05,New,2023-11
+C0184,SMB,LATAM,1084.86,New,2023-11
+C0185,Mid-Market,North America,5164.76,New,2023-11
+C0186,SMB,APAC,1662.14,New,2023-11
+C0187,Enterprise,North America,18900.04,New,2023-11
+C0188,SMB,EMEA,474.4,New,2023-11
+C0189,SMB,APAC,784.61,New,2023-11
+C0004,Enterprise,North America,2262.94,Expansion,2023-11
+C0010,Mid-Market,North America,114.58,Expansion,2023-11
+C0016,SMB,North America,331.92,Expansion,2023-11
+C0022,SMB,EMEA,94.99,Expansion,2023-11
+C0026,SMB,North America,148.99,Expansion,2023-11
+C0028,SMB,APAC,-1262.26,Churn,2023-11
+C0029,Mid-Market,LATAM,432.81,Expansion,2023-11
+C0035,SMB,APAC,75.51,Expansion,2023-11
+C0037,Mid-Market,LATAM,324.91,Expansion,2023-11
+C0041,SMB,APAC,162.43,Expansion,2023-11
+C0043,SMB,EMEA,-1714.51,Churn,2023-11
+C0046,Mid-Market,North America,425.13,Expansion,2023-11
+C0054,Enterprise,EMEA,3932.33,Expansion,2023-11
+C0055,Mid-Market,North America,790.81,Expansion,2023-11
+C0068,Mid-Market,North America,-5466.37,Churn,2023-11
+C0077,SMB,North America,268.64,Expansion,2023-11
+C0080,Enterprise,LATAM,3091.57,Expansion,2023-11
+C0087,Mid-Market,APAC,1140.54,Expansion,2023-11
+C0090,SMB,North America,79.73,Expansion,2023-11
+C0091,Mid-Market,EMEA,1233.15,Expansion,2023-11
+C0097,Enterprise,APAC,-971.7,Contraction,2023-11
+C0101,SMB,North America,115.95,Expansion,2023-11
+C0114,Mid-Market,EMEA,901.52,Expansion,2023-11
+C0118,Mid-Market,North America,795.45,Expansion,2023-11
+C0124,SMB,North America,133.04,Expansion,2023-11
+C0130,Enterprise,North America,2278.73,Expansion,2023-11
+C0135,SMB,North America,262.21,Expansion,2023-11
+C0137,SMB,EMEA,64.77,Expansion,2023-11
+C0153,Enterprise,North America,555.69,Expansion,2023-11
+C0164,Mid-Market,EMEA,408.84,Expansion,2023-11
+C0168,Mid-Market,North America,618.28,Expansion,2023-11
+C0190,Mid-Market,North America,3799.74,New,2023-12
+C0191,Enterprise,EMEA,19903.73,New,2023-12
+C0192,Enterprise,North America,11812.11,New,2023-12
+C0193,SMB,EMEA,702.45,New,2023-12
+C0194,Mid-Market,North America,5433.66,New,2023-12
+C0195,Mid-Market,LATAM,2778.63,New,2023-12
+C0196,SMB,North America,976.87,New,2023-12
+C0197,SMB,North America,998.35,New,2023-12
+C0198,Mid-Market,EMEA,2751.96,New,2023-12
+C0199,Mid-Market,North America,4795.0,New,2023-12
+C0200,Mid-Market,North America,6974.32,New,2023-12
+C0201,SMB,EMEA,1605.23,New,2023-12
+C0202,Enterprise,EMEA,22759.6,New,2023-12
+C0203,SMB,EMEA,817.01,New,2023-12
+C0204,Enterprise,APAC,11832.99,New,2023-12
+C0205,SMB,EMEA,782.88,New,2023-12
+C0001,Enterprise,EMEA,756.48,Expansion,2023-12
+C0007,SMB,EMEA,168.33,Expansion,2023-12
+C0010,Mid-Market,North America,828.74,Expansion,2023-12
+C0019,SMB,North America,439.36,Expansion,2023-12
+C0022,SMB,EMEA,-80.15,Contraction,2023-12
+C0024,Mid-Market,APAC,1613.86,Expansion,2023-12
+C0036,SMB,North America,83.13,Expansion,2023-12
+C0039,Enterprise,EMEA,2701.31,Expansion,2023-12
+C0048,SMB,North America,67.98,Expansion,2023-12
+C0049,Enterprise,North America,1031.64,Expansion,2023-12
+C0052,SMB,EMEA,60.93,Expansion,2023-12
+C0064,SMB,APAC,-34.53,Contraction,2023-12
+C0072,Mid-Market,EMEA,432.26,Expansion,2023-12
+C0077,SMB,North America,100.62,Expansion,2023-12
+C0085,Mid-Market,EMEA,-6451.7,Churn,2023-12
+C0086,SMB,North America,60.14,Expansion,2023-12
+C0090,SMB,North America,58.85,Expansion,2023-12
+C0100,Mid-Market,EMEA,69.28,Expansion,2023-12
+C0106,SMB,North America,68.05,Expansion,2023-12
+C0108,SMB,North America,65.85,Expansion,2023-12
+C0112,Mid-Market,EMEA,1302.05,Expansion,2023-12
+C0113,Mid-Market,North America,998.98,Expansion,2023-12
+C0124,SMB,North America,-617.87,Churn,2023-12
+C0126,Mid-Market,North America,479.33,Expansion,2023-12
+C0137,SMB,EMEA,164.88,Expansion,2023-12
+C0146,SMB,North America,-127.32,Contraction,2023-12
+C0150,Mid-Market,LATAM,-475.69,Contraction,2023-12
+C0206,SMB,North America,788.97,New,2024-01
+C0207,SMB,North America,1052.04,New,2024-01
+C0208,Mid-Market,North America,3212.41,New,2024-01
+C0209,Mid-Market,APAC,6177.03,New,2024-01
+C0210,Enterprise,EMEA,17976.12,New,2024-01
+C0211,Mid-Market,EMEA,5186.25,New,2024-01
+C0212,SMB,North America,1002.61,New,2024-01
+C0213,SMB,North America,1610.3,New,2024-01
+C0214,Enterprise,EMEA,23794.69,New,2024-01
+C0215,Mid-Market,APAC,7270.4,New,2024-01
+C0216,Mid-Market,North America,7783.48,New,2024-01
+C0217,Mid-Market,EMEA,7447.62,New,2024-01
+C0218,Enterprise,EMEA,17097.59,New,2024-01
+C0219,SMB,APAC,1852.49,New,2024-01
+C0220,Enterprise,APAC,10988.41,New,2024-01
+C0221,SMB,LATAM,974.89,New,2024-01
+C0222,Mid-Market,APAC,7772.79,New,2024-01
+C0223,SMB,APAC,315.75,New,2024-01
+C0002,Enterprise,North America,-3036.69,Contraction,2024-01
+C0013,SMB,APAC,-52.62,Contraction,2024-01
+C0030,Enterprise,North America,2040.55,Expansion,2024-01
+C0044,SMB,North America,-1984.31,Churn,2024-01
+C0047,SMB,EMEA,58.43,Expansion,2024-01
+C0058,Enterprise,APAC,-2203.01,Contraction,2024-01
+C0063,Enterprise,EMEA,-387.83,Contraction,2024-01
+C0080,Enterprise,LATAM,2208.33,Expansion,2024-01
+C0083,Mid-Market,EMEA,592.71,Expansion,2024-01
+C0086,SMB,North America,101.33,Expansion,2024-01
+C0092,Mid-Market,APAC,-117.78,Contraction,2024-01
+C0094,Mid-Market,North America,723.33,Expansion,2024-01
+C0099,Mid-Market,APAC,202.49,Expansion,2024-01
+C0107,SMB,North America,61.36,Expansion,2024-01
+C0108,SMB,North America,407.9,Expansion,2024-01
+C0110,SMB,North America,332.01,Expansion,2024-01
+C0111,Enterprise,North America,1980.0,Expansion,2024-01
+C0133,Mid-Market,LATAM,-6140.77,Churn,2024-01
+C0134,Mid-Market,EMEA,-6114.8,Churn,2024-01
+C0145,SMB,APAC,-95.19,Contraction,2024-01
+C0150,Mid-Market,LATAM,-5645.24,Churn,2024-01
+C0152,Mid-Market,EMEA,90.99,Expansion,2024-01
+C0155,SMB,APAC,239.35,Expansion,2024-01
+C0160,Mid-Market,North America,716.35,Expansion,2024-01
+C0173,Mid-Market,North America,806.56,Expansion,2024-01
+C0197,SMB,North America,-59.08,Contraction,2024-01
+C0202,Enterprise,EMEA,1637.13,Expansion,2024-01
+C0224,Enterprise,North America,21679.06,New,2024-02
+C0225,SMB,EMEA,668.93,New,2024-02
+C0226,Mid-Market,APAC,3819.13,New,2024-02
+C0227,SMB,North America,623.04,New,2024-02
+C0228,SMB,EMEA,1582.36,New,2024-02
+C0229,SMB,EMEA,1496.41,New,2024-02
+C0230,Mid-Market,North America,3929.69,New,2024-02
+C0231,Mid-Market,North America,5892.33,New,2024-02
+C0232,Mid-Market,North America,7296.87,New,2024-02
+C0233,Mid-Market,APAC,6334.48,New,2024-02
+C0234,SMB,North America,645.32,New,2024-02
+C0235,Mid-Market,North America,7184.51,New,2024-02
+C0236,SMB,North America,1240.63,New,2024-02
+C0237,SMB,EMEA,801.83,New,2024-02
+C0238,Enterprise,North America,17686.42,New,2024-02
+C0239,Mid-Market,EMEA,7660.79,New,2024-02
+C0023,Enterprise,North America,86.18,Expansion,2024-02
+C0027,Mid-Market,EMEA,204.49,Expansion,2024-02
+C0031,SMB,EMEA,243.9,Expansion,2024-02
+C0036,SMB,North America,-515.48,Churn,2024-02
+C0039,Enterprise,EMEA,-24573.71,Churn,2024-02
+C0063,Enterprise,EMEA,4429.67,Expansion,2024-02
+C0072,Mid-Market,EMEA,1142.57,Expansion,2024-02
+C0074,SMB,North America,129.29,Expansion,2024-02
+C0081,Enterprise,North America,3908.7,Expansion,2024-02
+C0103,SMB,North America,-1090.0,Churn,2024-02
+C0120,Mid-Market,EMEA,997.34,Expansion,2024-02
+C0122,Mid-Market,North America,355.2,Expansion,2024-02
+C0123,SMB,APAC,74.56,Expansion,2024-02
+C0143,SMB,North America,88.87,Expansion,2024-02
+C0151,Mid-Market,North America,713.52,Expansion,2024-02
+C0154,SMB,EMEA,71.78,Expansion,2024-02
+C0158,Enterprise,North America,278.2,Expansion,2024-02
+C0163,SMB,EMEA,-349.22,Churn,2024-02
+C0187,Enterprise,North America,-18900.04,Churn,2024-02
+C0217,Mid-Market,EMEA,415.34,Expansion,2024-02
+C0222,Mid-Market,APAC,200.24,Expansion,2024-02
+C0240,Mid-Market,EMEA,3452.13,New,2024-03
+C0241,SMB,EMEA,1641.43,New,2024-03
+C0242,Enterprise,LATAM,16146.99,New,2024-03
+C0243,Mid-Market,EMEA,7522.35,New,2024-03
+C0244,SMB,EMEA,1644.23,New,2024-03
+C0245,Mid-Market,APAC,5221.44,New,2024-03
+C0246,SMB,North America,1607.22,New,2024-03
+C0247,SMB,North America,1399.9,New,2024-03
+C0248,Enterprise,LATAM,19517.02,New,2024-03
+C0249,Mid-Market,EMEA,7794.3,New,2024-03
+C0250,Mid-Market,North America,3552.43,New,2024-03
+C0251,Mid-Market,EMEA,5483.11,New,2024-03
+C0252,SMB,North America,964.93,New,2024-03
+C0253,SMB,EMEA,1150.79,New,2024-03
+C0254,Mid-Market,North America,2627.3,New,2024-03
+C0255,Mid-Market,LATAM,2696.42,New,2024-03
+C0256,SMB,North America,830.21,New,2024-03
+C0012,SMB,North America,-106.22,Contraction,2024-03
+C0031,SMB,EMEA,86.93,Expansion,2024-03
+C0045,Mid-Market,APAC,188.66,Expansion,2024-03
+C0072,Mid-Market,EMEA,243.49,Expansion,2024-03
+C0073,SMB,APAC,-51.9,Contraction,2024-03
+C0095,Mid-Market,North America,247.96,Expansion,2024-03
+C0096,Mid-Market,EMEA,-7676.37,Churn,2024-03
+C0109,Mid-Market,EMEA,1414.65,Expansion,2024-03
+C0118,Mid-Market,North America,-107.46,Contraction,2024-03
+C0123,SMB,APAC,95.26,Expansion,2024-03
+C0127,Enterprise,North America,1689.9,Expansion,2024-03
+C0151,Mid-Market,North America,371.95,Expansion,2024-03
+C0161,SMB,EMEA,393.79,Expansion,2024-03
+C0167,SMB,North America,-160.15,Contraction,2024-03
+C0180,SMB,North America,187.43,Expansion,2024-03
+C0186,SMB,APAC,-1662.14,Churn,2024-03
+C0194,Mid-Market,North America,894.44,Expansion,2024-03
+C0206,SMB,North America,68.59,Expansion,2024-03
+C0209,Mid-Market,APAC,-798.93,Contraction,2024-03
+C0211,Mid-Market,EMEA,-5186.25,Churn,2024-03
+C0215,Mid-Market,APAC,-719.36,Contraction,2024-03
+C0230,Mid-Market,North America,-3929.69,Churn,2024-03
+C0232,Mid-Market,North America,-270.79,Contraction,2024-03
+C0234,SMB,North America,-645.32,Churn,2024-03
+C0239,Mid-Market,EMEA,-109.27,Contraction,2024-03
+C0257,Enterprise,APAC,9754.43,New,2024-04
+C0258,Mid-Market,North America,4296.33,New,2024-04
+C0259,SMB,APAC,1390.68,New,2024-04
+C0260,SMB,North America,1257.6,New,2024-04
+C0261,SMB,North America,897.02,New,2024-04
+C0262,Mid-Market,EMEA,7519.36,New,2024-04
+C0263,SMB,North America,669.32,New,2024-04
+C0264,SMB,North America,509.37,New,2024-04
+C0265,SMB,North America,1029.96,New,2024-04
+C0266,SMB,North America,1395.85,New,2024-04
+C0267,Mid-Market,EMEA,6327.08,New,2024-04
+C0268,Mid-Market,APAC,2160.95,New,2024-04
+C0269,SMB,APAC,649.26,New,2024-04
+C0270,SMB,North America,965.98,New,2024-04
+C0271,SMB,EMEA,1649.42,New,2024-04
+C0006,Mid-Market,North America,983.82,Expansion,2024-04
+C0007,SMB,EMEA,-950.35,Churn,2024-04
+C0020,Enterprise,North America,125.24,Expansion,2024-04
+C0021,SMB,EMEA,-1955.49,Churn,2024-04
+C0038,Mid-Market,North America,174.16,Expansion,2024-04
+C0062,SMB,North America,-72.0,Contraction,2024-04
+C0063,Enterprise,EMEA,3470.55,Expansion,2024-04
+C0069,SMB,APAC,-342.14,Churn,2024-04
+C0071,SMB,APAC,-1936.19,Churn,2024-04
+C0086,SMB,North America,-81.35,Contraction,2024-04
+C0095,Mid-Market,North America,310.74,Expansion,2024-04
+C0102,Mid-Market,North America,-675.95,Contraction,2024-04
+C0105,SMB,North America,-845.3,Churn,2024-04
+C0107,SMB,North America,-337.98,Churn,2024-04
+C0113,Mid-Market,North America,66.01,Expansion,2024-04
+C0122,Mid-Market,North America,-715.83,Contraction,2024-04
+C0123,SMB,APAC,70.43,Expansion,2024-04
+C0126,Mid-Market,North America,520.89,Expansion,2024-04
+C0131,SMB,North America,68.27,Expansion,2024-04
+C0148,SMB,North America,-1943.05,Churn,2024-04
+C0154,SMB,EMEA,-1070.15,Churn,2024-04
+C0168,Mid-Market,North America,285.83,Expansion,2024-04
+C0179,Enterprise,North America,2994.81,Expansion,2024-04
+C0180,SMB,North America,-75.61,Contraction,2024-04
+C0193,SMB,EMEA,-37.96,Contraction,2024-04
+C0196,SMB,North America,-71.75,Contraction,2024-04
+C0201,SMB,EMEA,328.44,Expansion,2024-04
+C0212,SMB,North America,124.94,Expansion,2024-04
+C0219,SMB,APAC,59.94,Expansion,2024-04
+C0221,SMB,LATAM,-37.17,Contraction,2024-04
+C0228,SMB,EMEA,265.48,Expansion,2024-04
+C0231,Mid-Market,North America,1762.82,Expansion,2024-04
+C0236,SMB,North America,322.98,Expansion,2024-04
+C0238,Enterprise,North America,-2501.57,Contraction,2024-04
+C0239,Mid-Market,EMEA,418.25,Expansion,2024-04
+C0256,SMB,North America,126.24,Expansion,2024-04
+C0272,Enterprise,APAC,16938.84,New,2024-05
+C0273,SMB,APAC,1651.24,New,2024-05
+C0274,SMB,EMEA,910.49,New,2024-05
+C0275,Mid-Market,North America,7476.06,New,2024-05
+C0276,Mid-Market,North America,3078.9,New,2024-05
+C0277,Mid-Market,North America,7374.59,New,2024-05
+C0278,SMB,North America,1985.6,New,2024-05
+C0279,Mid-Market,EMEA,7997.63,New,2024-05
+C0280,SMB,North America,1416.67,New,2024-05
+C0281,Mid-Market,APAC,7503.56,New,2024-05
+C0282,Enterprise,LATAM,11730.0,New,2024-05
+C0283,SMB,EMEA,903.17,New,2024-05
+C0284,SMB,APAC,599.37,New,2024-05
+C0285,SMB,APAC,1485.97,New,2024-05
+C0286,SMB,North America,1490.95,New,2024-05
+C0013,SMB,APAC,113.43,Expansion,2024-05
+C0016,SMB,North America,-1508.17,Churn,2024-05
+C0022,SMB,EMEA,-84.22,Contraction,2024-05
+C0027,Mid-Market,EMEA,-3780.94,Churn,2024-05
+C0042,Mid-Market,EMEA,99.44,Expansion,2024-05
+C0070,SMB,North America,-204.55,Contraction,2024-05
+C0078,Mid-Market,LATAM,962.73,Expansion,2024-05
+C0094,Mid-Market,North America,1139.17,Expansion,2024-05
+C0101,SMB,North America,104.92,Expansion,2024-05
+C0102,Mid-Market,North America,-30.99,Contraction,2024-05
+C0114,Mid-Market,EMEA,857.4,Expansion,2024-05
+C0119,Enterprise,North America,3813.13,Expansion,2024-05
+C0123,SMB,APAC,69.16,Expansion,2024-05
+C0129,SMB,EMEA,167.91,Expansion,2024-05
+C0139,SMB,EMEA,53.18,Expansion,2024-05
+C0147,SMB,North America,126.39,Expansion,2024-05
+C0160,Mid-Market,North America,312.62,Expansion,2024-05
+C0162,SMB,EMEA,345.81,Expansion,2024-05
+C0168,Mid-Market,North America,651.03,Expansion,2024-05
+C0177,Enterprise,North America,2440.2,Expansion,2024-05
+C0179,Enterprise,North America,1887.16,Expansion,2024-05
+C0194,Mid-Market,North America,1514.21,Expansion,2024-05
+C0201,SMB,EMEA,-226.91,Contraction,2024-05
+C0206,SMB,North America,-71.76,Contraction,2024-05
+C0216,Mid-Market,North America,114.63,Expansion,2024-05
+C0235,Mid-Market,North America,269.0,Expansion,2024-05
+C0242,Enterprise,LATAM,1370.36,Expansion,2024-05
+C0246,SMB,North America,354.93,Expansion,2024-05
+C0252,SMB,North America,-964.93,Churn,2024-05
+C0258,Mid-Market,North America,1126.48,Expansion,2024-05
+C0259,SMB,APAC,-204.0,Contraction,2024-05
+C0287,SMB,North America,1506.27,New,2024-06
+C0288,Mid-Market,EMEA,5145.72,New,2024-06
+C0289,SMB,North America,1787.81,New,2024-06
+C0290,Mid-Market,North America,2198.43,New,2024-06
+C0291,Enterprise,North America,11384.87,New,2024-06
+C0292,Mid-Market,North America,4381.65,New,2024-06
+C0293,SMB,EMEA,711.29,New,2024-06
+C0294,Mid-Market,North America,7763.12,New,2024-06
+C0295,Mid-Market,EMEA,4065.49,New,2024-06
+C0296,SMB,North America,1712.48,New,2024-06
+C0297,Enterprise,North America,8844.07,New,2024-06
+C0298,SMB,EMEA,664.34,New,2024-06
+C0299,Mid-Market,North America,3240.39,New,2024-06
+C0300,SMB,EMEA,1769.87,New,2024-06
+C0301,SMB,EMEA,1105.97,New,2024-06
+C0302,Enterprise,North America,21614.7,New,2024-06
+C0022,SMB,EMEA,-620.0,Churn,2024-06
+C0052,SMB,EMEA,182.89,Expansion,2024-06
+C0059,SMB,EMEA,250.71,Expansion,2024-06
+C0111,Enterprise,North America,-207.21,Contraction,2024-06
+C0117,Mid-Market,APAC,-807.46,Contraction,2024-06
+C0137,SMB,EMEA,180.45,Expansion,2024-06
+C0144,Mid-Market,LATAM,-354.31,Contraction,2024-06
+C0151,Mid-Market,North America,-3597.66,Churn,2024-06
+C0159,Mid-Market,EMEA,-2689.31,Churn,2024-06
+C0160,Mid-Market,North America,-5603.64,Churn,2024-06
+C0166,SMB,North America,246.48,Expansion,2024-06
+C0168,Mid-Market,North America,109.43,Expansion,2024-06
+C0175,SMB,APAC,-269.41,Contraction,2024-06
+C0181,Mid-Market,EMEA,-4693.57,Churn,2024-06
+C0185,Mid-Market,North America,-5164.76,Churn,2024-06
+C0189,SMB,APAC,-92.36,Contraction,2024-06
+C0196,SMB,North America,73.95,Expansion,2024-06
+C0198,Mid-Market,EMEA,139.81,Expansion,2024-06
+C0200,Mid-Market,North America,-286.82,Contraction,2024-06
+C0204,Enterprise,APAC,-11832.99,Churn,2024-06
+C0206,SMB,North America,146.64,Expansion,2024-06
+C0229,SMB,EMEA,-1496.41,Churn,2024-06
+C0231,Mid-Market,North America,82.56,Expansion,2024-06
+C0237,SMB,EMEA,187.88,Expansion,2024-06
+C0243,Mid-Market,EMEA,397.76,Expansion,2024-06
+C0249,Mid-Market,EMEA,-999.69,Contraction,2024-06
+C0251,Mid-Market,EMEA,-5483.11,Churn,2024-06
+C0262,Mid-Market,EMEA,-469.44,Contraction,2024-06
+C0270,SMB,North America,-113.46,Contraction,2024-06
+C0273,SMB,APAC,322.24,Expansion,2024-06
+C0303,Enterprise,North America,13342.05,New,2024-07
+C0304,SMB,EMEA,1604.8,New,2024-07
+C0305,SMB,EMEA,1962.42,New,2024-07
+C0306,SMB,North America,1189.28,New,2024-07
+C0307,SMB,North America,1424.91,New,2024-07
+C0308,Mid-Market,North America,6057.77,New,2024-07
+C0309,Mid-Market,APAC,5350.07,New,2024-07
+C0310,SMB,North America,1393.78,New,2024-07
+C0311,Enterprise,APAC,22481.81,New,2024-07
+C0312,SMB,North America,1135.8,New,2024-07
+C0313,Mid-Market,LATAM,2302.1,New,2024-07
+C0314,Mid-Market,EMEA,4419.66,New,2024-07
+C0315,Mid-Market,North America,6807.57,New,2024-07
+C0316,Mid-Market,APAC,4682.41,New,2024-07
+C0317,Enterprise,North America,19107.34,New,2024-07
+C0001,Enterprise,EMEA,1627.56,Expansion,2024-07
+C0003,Mid-Market,EMEA,-2190.7,Churn,2024-07
+C0004,Enterprise,North America,3469.09,Expansion,2024-07
+C0031,SMB,EMEA,-232.37,Contraction,2024-07
+C0045,Mid-Market,APAC,282.98,Expansion,2024-07
+C0049,Enterprise,North America,-2192.25,Contraction,2024-07
+C0060,Enterprise,North America,-1057.78,Contraction,2024-07
+C0074,SMB,North America,-85.98,Contraction,2024-07
+C0077,SMB,North America,124.17,Expansion,2024-07
+C0089,SMB,APAC,-63.21,Contraction,2024-07
+C0102,Mid-Market,North America,-346.14,Contraction,2024-07
+C0127,Enterprise,North America,-1322.59,Contraction,2024-07
+C0140,SMB,APAC,92.82,Expansion,2024-07
+C0156,SMB,North America,201.97,Expansion,2024-07
+C0157,Mid-Market,North America,1320.23,Expansion,2024-07
+C0176,Enterprise,North America,-21027.23,Churn,2024-07
+C0203,SMB,EMEA,-84.05,Contraction,2024-07
+C0212,SMB,North America,318.77,Expansion,2024-07
+C0226,Mid-Market,APAC,292.38,Expansion,2024-07
+C0239,Mid-Market,EMEA,-7969.77,Churn,2024-07
+C0260,SMB,North America,343.99,Expansion,2024-07
+C0267,Mid-Market,EMEA,-6327.08,Churn,2024-07
+C0268,Mid-Market,APAC,451.05,Expansion,2024-07
+C0272,Enterprise,APAC,2755.79,Expansion,2024-07
+C0282,Enterprise,LATAM,238.26,Expansion,2024-07
+C0291,Enterprise,North America,-11384.87,Churn,2024-07
+C0299,Mid-Market,North America,905.77,Expansion,2024-07
+C0300,SMB,EMEA,-215.3,Contraction,2024-07
+C0302,Enterprise,North America,2602.42,Expansion,2024-07
+C0318,Mid-Market,APAC,2184.91,New,2024-08
+C0319,Enterprise,North America,20694.82,New,2024-08
+C0320,SMB,APAC,801.46,New,2024-08
+C0321,SMB,North America,1807.86,New,2024-08
+C0322,SMB,APAC,1401.5,New,2024-08
+C0323,SMB,North America,1787.1,New,2024-08
+C0324,Enterprise,North America,17736.22,New,2024-08
+C0325,Mid-Market,EMEA,2510.76,New,2024-08
+C0326,Mid-Market,EMEA,6355.62,New,2024-08
+C0327,Mid-Market,APAC,7108.75,New,2024-08
+C0328,Enterprise,North America,18487.04,New,2024-08
+C0329,Mid-Market,North America,6025.87,New,2024-08
+C0330,SMB,North America,1576.77,New,2024-08
+C0331,SMB,EMEA,1395.95,New,2024-08
+C0332,Enterprise,EMEA,12261.69,New,2024-08
+C0001,Enterprise,EMEA,-1279.49,Contraction,2024-08
+C0010,Mid-Market,North America,-5152.16,Churn,2024-08
+C0012,SMB,North America,-65.87,Contraction,2024-08
+C0047,SMB,EMEA,107.35,Expansion,2024-08
+C0048,SMB,North America,-482.56,Churn,2024-08
+C0055,Mid-Market,North America,-629.84,Contraction,2024-08
+C0072,Mid-Market,EMEA,-5225.19,Churn,2024-08
+C0078,Mid-Market,LATAM,744.71,Expansion,2024-08
+C0086,SMB,North America,99.97,Expansion,2024-08
+C0087,Mid-Market,APAC,-5990.5,Churn,2024-08
+C0089,SMB,APAC,-708.22,Churn,2024-08
+C0097,Enterprise,APAC,2878.68,Expansion,2024-08
+C0100,Mid-Market,EMEA,145.29,Expansion,2024-08
+C0102,Mid-Market,North America,-4960.16,Churn,2024-08
+C0117,Mid-Market,APAC,-7006.87,Churn,2024-08
+C0119,Enterprise,North America,5466.81,Expansion,2024-08
+C0130,Enterprise,North America,-14098.64,Churn,2024-08
+C0141,Mid-Market,North America,-5477.44,Churn,2024-08
+C0147,SMB,North America,76.99,Expansion,2024-08
+C0158,Enterprise,North America,1581.51,Expansion,2024-08
+C0167,SMB,North America,205.49,Expansion,2024-08
+C0168,Mid-Market,North America,733.2,Expansion,2024-08
+C0170,SMB,APAC,69.85,Expansion,2024-08
+C0191,Enterprise,EMEA,2990.19,Expansion,2024-08
+C0195,Mid-Market,LATAM,587.22,Expansion,2024-08
+C0198,Mid-Market,EMEA,-2891.77,Churn,2024-08
+C0200,Mid-Market,North America,70.91,Expansion,2024-08
+C0207,SMB,North America,289.48,Expansion,2024-08
+C0213,SMB,North America,-1610.3,Churn,2024-08
+C0217,Mid-Market,EMEA,-7862.96,Churn,2024-08
+C0241,SMB,EMEA,-1641.43,Churn,2024-08
+C0245,Mid-Market,APAC,-5221.44,Churn,2024-08
+C0247,SMB,North America,-1399.9,Churn,2024-08
+C0253,SMB,EMEA,-144.71,Contraction,2024-08
+C0255,Mid-Market,LATAM,373.36,Expansion,2024-08
+C0263,SMB,North America,-68.87,Contraction,2024-08
+C0265,SMB,North America,194.8,Expansion,2024-08
+C0272,Enterprise,APAC,4589.75,Expansion,2024-08
+C0277,Mid-Market,North America,342.51,Expansion,2024-08
+C0282,Enterprise,LATAM,-11968.26,Churn,2024-08
+C0289,SMB,North America,-1787.81,Churn,2024-08
+C0300,SMB,EMEA,-1554.57,Churn,2024-08
+C0302,Enterprise,North America,412.31,Expansion,2024-08
+C0303,Enterprise,North America,-13342.05,Churn,2024-08
+C0307,SMB,North America,-174.04,Contraction,2024-08
+C0315,Mid-Market,North America,-6807.57,Churn,2024-08
+C0333,Mid-Market,EMEA,5106.46,New,2024-09
+C0334,SMB,North America,453.28,New,2024-09
+C0335,Mid-Market,APAC,7490.05,New,2024-09
+C0336,Mid-Market,LATAM,3659.05,New,2024-09
+C0337,SMB,North America,1880.51,New,2024-09
+C0338,SMB,North America,992.13,New,2024-09
+C0339,Enterprise,North America,13002.28,New,2024-09
+C0340,SMB,APAC,1926.41,New,2024-09
+C0341,SMB,APAC,1277.32,New,2024-09
+C0342,SMB,LATAM,1257.39,New,2024-09
+C0343,SMB,EMEA,1934.11,New,2024-09
+C0344,Mid-Market,North America,5520.96,New,2024-09
+C0345,Enterprise,North America,9148.42,New,2024-09
+C0346,SMB,LATAM,1450.75,New,2024-09
+C0347,Mid-Market,North America,7732.67,New,2024-09
+C0348,Mid-Market,North America,6993.06,New,2024-09
+C0349,Mid-Market,North America,6042.19,New,2024-09
+C0002,Enterprise,North America,4908.53,Expansion,2024-09
+C0032,Enterprise,North America,-3444.0,Contraction,2024-09
+C0042,Mid-Market,EMEA,81.05,Expansion,2024-09
+C0062,SMB,North America,150.39,Expansion,2024-09
+C0081,Enterprise,North America,-24293.97,Churn,2024-09
+C0110,SMB,North America,-183.76,Contraction,2024-09
+C0112,Mid-Market,EMEA,533.88,Expansion,2024-09
+C0137,SMB,EMEA,328.91,Expansion,2024-09
+C0147,SMB,North America,-815.37,Churn,2024-09
+C0152,Mid-Market,EMEA,-566.93,Contraction,2024-09
+C0179,Enterprise,North America,873.51,Expansion,2024-09
+C0197,SMB,North America,-939.27,Churn,2024-09
+C0203,SMB,EMEA,78.36,Expansion,2024-09
+C0205,SMB,EMEA,61.79,Expansion,2024-09
+C0208,Mid-Market,North America,412.76,Expansion,2024-09
+C0210,Enterprise,EMEA,1452.24,Expansion,2024-09
+C0221,SMB,LATAM,-122.79,Contraction,2024-09
+C0257,Enterprise,APAC,-9754.43,Churn,2024-09
+C0262,Mid-Market,EMEA,-7049.92,Churn,2024-09
+C0266,SMB,North America,-1395.85,Churn,2024-09
+C0271,SMB,EMEA,-1649.42,Churn,2024-09
+C0304,SMB,EMEA,-1604.8,Churn,2024-09
+C0308,Mid-Market,North America,525.76,Expansion,2024-09
+C0324,Enterprise,North America,4138.36,Expansion,2024-09
+C0325,Mid-Market,EMEA,380.62,Expansion,2024-09
+C0330,SMB,North America,-188.63,Contraction,2024-09
+C0350,Mid-Market,LATAM,3195.08,New,2024-10
+C0351,SMB,North America,1432.21,New,2024-10
+C0352,Mid-Market,North America,7767.28,New,2024-10
+C0353,SMB,North America,1538.0,New,2024-10
+C0354,SMB,EMEA,507.64,New,2024-10
+C0355,Mid-Market,North America,4162.56,New,2024-10
+C0356,Enterprise,EMEA,24545.66,New,2024-10
+C0357,Mid-Market,North America,2090.41,New,2024-10
+C0358,SMB,EMEA,972.87,New,2024-10
+C0359,Mid-Market,LATAM,5486.46,New,2024-10
+C0360,SMB,EMEA,563.49,New,2024-10
+C0361,SMB,North America,1149.86,New,2024-10
+C0362,SMB,North America,1948.41,New,2024-10
+C0363,SMB,North America,904.38,New,2024-10
+C0364,Enterprise,EMEA,9825.66,New,2024-10
+C0365,Mid-Market,North America,5350.1,New,2024-10
+C0366,SMB,North America,1816.05,New,2024-10
+C0367,SMB,North America,942.21,New,2024-10
+C0368,SMB,North America,367.13,New,2024-10
+C0369,SMB,EMEA,1222.65,New,2024-10
+C0014,Enterprise,North America,2978.21,Expansion,2024-10
+C0037,Mid-Market,LATAM,369.08,Expansion,2024-10
+C0041,SMB,APAC,-85.66,Contraction,2024-10
+C0045,Mid-Market,APAC,475.87,Expansion,2024-10
+C0049,Enterprise,North America,2253.33,Expansion,2024-10
+C0055,Mid-Market,North America,95.55,Expansion,2024-10
+C0057,Mid-Market,APAC,182.0,Expansion,2024-10
+C0058,Enterprise,APAC,2676.68,Expansion,2024-10
+C0064,SMB,APAC,62.48,Expansion,2024-10
+C0070,SMB,North America,-1592.06,Churn,2024-10
+C0092,Mid-Market,APAC,561.66,Expansion,2024-10
+C0097,Enterprise,APAC,1184.83,Expansion,2024-10
+C0099,Mid-Market,APAC,79.41,Expansion,2024-10
+C0101,SMB,North America,-107.33,Contraction,2024-10
+C0118,Mid-Market,North America,1107.38,Expansion,2024-10
+C0146,SMB,North America,-1543.71,Churn,2024-10
+C0152,Mid-Market,EMEA,356.67,Expansion,2024-10
+C0153,Enterprise,North America,-24818.31,Churn,2024-10
+C0155,SMB,APAC,341.58,Expansion,2024-10
+C0156,SMB,North America,-990.94,Churn,2024-10
+C0158,Enterprise,North America,-1166.65,Contraction,2024-10
+C0169,Mid-Market,North America,188.83,Expansion,2024-10
+C0170,SMB,APAC,87.18,Expansion,2024-10
+C0179,Enterprise,North America,1416.93,Expansion,2024-10
+C0189,SMB,APAC,151.27,Expansion,2024-10
+C0190,Mid-Market,North America,931.03,Expansion,2024-10
+C0200,Mid-Market,North America,967.99,Expansion,2024-10
+C0207,SMB,North America,234.82,Expansion,2024-10
+C0214,Enterprise,EMEA,828.26,Expansion,2024-10
+C0220,Enterprise,APAC,1452.29,Expansion,2024-10
+C0236,SMB,North America,-110.86,Contraction,2024-10
+C0250,Mid-Market,North America,470.09,Expansion,2024-10
+C0254,Mid-Market,North America,-155.44,Contraction,2024-10
+C0258,Mid-Market,North America,601.45,Expansion,2024-10
+C0269,SMB,APAC,155.47,Expansion,2024-10
+C0270,SMB,North America,202.17,Expansion,2024-10
+C0274,SMB,EMEA,235.76,Expansion,2024-10
+C0283,SMB,EMEA,-87.63,Contraction,2024-10
+C0296,SMB,North America,97.67,Expansion,2024-10
+C0302,Enterprise,North America,261.7,Expansion,2024-10
+C0308,Mid-Market,North America,449.69,Expansion,2024-10
+C0318,Mid-Market,APAC,170.41,Expansion,2024-10
+C0322,SMB,APAC,391.65,Expansion,2024-10
+C0326,Mid-Market,EMEA,-6355.62,Churn,2024-10
+C0333,Mid-Market,EMEA,431.86,Expansion,2024-10
+C0342,SMB,LATAM,288.83,Expansion,2024-10
+C0370,SMB,North America,1221.8,New,2024-11
+C0371,Mid-Market,North America,5248.12,New,2024-11
+C0372,SMB,APAC,825.3,New,2024-11
+C0373,SMB,EMEA,529.93,New,2024-11
+C0374,SMB,LATAM,546.76,New,2024-11
+C0375,SMB,APAC,839.74,New,2024-11
+C0376,SMB,APAC,501.26,New,2024-11
+C0377,Mid-Market,APAC,6362.48,New,2024-11
+C0378,SMB,APAC,1003.87,New,2024-11
+C0379,Mid-Market,North America,7602.61,New,2024-11
+C0380,SMB,APAC,765.45,New,2024-11
+C0381,SMB,North America,614.07,New,2024-11
+C0382,SMB,EMEA,753.67,New,2024-11
+C0383,SMB,North America,694.71,New,2024-11
+C0384,SMB,North America,1469.84,New,2024-11
+C0385,Mid-Market,EMEA,5628.27,New,2024-11
+C0386,SMB,North America,1748.62,New,2024-11
+C0387,Mid-Market,North America,3159.56,New,2024-11
+C0001,Enterprise,EMEA,3054.88,Expansion,2024-11
+C0002,Enterprise,North America,-22463.19,Churn,2024-11
+C0013,SMB,APAC,334.35,Expansion,2024-11
+C0029,Mid-Market,LATAM,1245.39,Expansion,2024-11
+C0047,SMB,EMEA,170.54,Expansion,2024-11
+C0059,SMB,EMEA,94.5,Expansion,2024-11
+C0074,SMB,North America,157.86,Expansion,2024-11
+C0075,SMB,North America,93.21,Expansion,2024-11
+C0080,Enterprise,LATAM,4328.12,Expansion,2024-11
+C0088,Enterprise,APAC,1971.13,Expansion,2024-11
+C0091,Mid-Market,EMEA,1016.67,Expansion,2024-11
+C0093,Enterprise,North America,-739.15,Contraction,2024-11
+C0101,SMB,North America,145.84,Expansion,2024-11
+C0120,Mid-Market,EMEA,1414.06,Expansion,2024-11
+C0121,SMB,North America,133.87,Expansion,2024-11
+C0128,Mid-Market,North America,271.57,Expansion,2024-11
+C0129,SMB,EMEA,-104.35,Contraction,2024-11
+C0137,SMB,EMEA,-1637.96,Churn,2024-11
+C0144,Mid-Market,LATAM,889.69,Expansion,2024-11
+C0161,SMB,EMEA,79.54,Expansion,2024-11
+C0164,Mid-Market,EMEA,60.19,Expansion,2024-11
+C0169,Mid-Market,North America,97.0,Expansion,2024-11
+C0170,SMB,APAC,161.87,Expansion,2024-11
+C0175,SMB,APAC,236.62,Expansion,2024-11
+C0179,Enterprise,North America,885.93,Expansion,2024-11
+C0183,Mid-Market,APAC,567.97,Expansion,2024-11
+C0189,SMB,APAC,191.05,Expansion,2024-11
+C0195,Mid-Market,LATAM,750.36,Expansion,2024-11
+C0212,SMB,North America,265.99,Expansion,2024-11
+C0218,Enterprise,EMEA,3145.34,Expansion,2024-11
+C0221,SMB,LATAM,-814.93,Churn,2024-11
+C0222,Mid-Market,APAC,-7973.03,Churn,2024-11
+C0224,Enterprise,North America,2823.99,Expansion,2024-11
+C0233,Mid-Market,APAC,-6334.48,Churn,2024-11
+C0235,Mid-Market,North America,-336.42,Contraction,2024-11
+C0242,Enterprise,LATAM,-17517.35,Churn,2024-11
+C0249,Mid-Market,EMEA,252.92,Expansion,2024-11
+C0276,Mid-Market,North America,-326.02,Contraction,2024-11
+C0283,SMB,EMEA,241.47,Expansion,2024-11
+C0295,Mid-Market,EMEA,534.08,Expansion,2024-11
+C0310,SMB,North America,-1393.78,Churn,2024-11
+C0313,Mid-Market,LATAM,-321.24,Contraction,2024-11
+C0318,Mid-Market,APAC,622.42,Expansion,2024-11
+C0322,SMB,APAC,163.65,Expansion,2024-11
+C0327,Mid-Market,APAC,-7108.75,Churn,2024-11
+C0331,SMB,EMEA,222.18,Expansion,2024-11
+C0332,Enterprise,EMEA,1938.92,Expansion,2024-11
+C0339,Enterprise,North America,-561.26,Contraction,2024-11
+C0342,SMB,LATAM,110.29,Expansion,2024-11
+C0344,Mid-Market,North America,-5520.96,Churn,2024-11
+C0347,Mid-Market,North America,-425.82,Contraction,2024-11
+C0349,Mid-Market,North America,1291.53,Expansion,2024-11
+C0352,Mid-Market,North America,162.06,Expansion,2024-11
+C0355,Mid-Market,North America,614.3,Expansion,2024-11
+C0357,Mid-Market,North America,81.05,Expansion,2024-11
+C0359,Mid-Market,LATAM,1001.37,Expansion,2024-11
+C0388,SMB,EMEA,457.96,New,2024-12
+C0389,SMB,EMEA,465.35,New,2024-12
+C0390,Mid-Market,EMEA,6598.96,New,2024-12
+C0391,Mid-Market,APAC,2862.33,New,2024-12
+C0392,SMB,North America,917.86,New,2024-12
+C0393,Enterprise,APAC,13615.58,New,2024-12
+C0394,SMB,North America,1128.76,New,2024-12
+C0395,Enterprise,North America,16137.09,New,2024-12
+C0396,SMB,North America,892.65,New,2024-12
+C0397,SMB,EMEA,989.67,New,2024-12
+C0398,SMB,North America,1245.45,New,2024-12
+C0399,Enterprise,North America,15836.57,New,2024-12
+C0400,SMB,North America,714.27,New,2024-12
+C0401,Enterprise,North America,9123.02,New,2024-12
+C0402,Mid-Market,EMEA,4586.89,New,2024-12
+C0403,SMB,EMEA,881.74,New,2024-12
+C0404,SMB,North America,1438.33,New,2024-12
+C0405,SMB,EMEA,1722.47,New,2024-12
+C0406,Enterprise,EMEA,13531.43,New,2024-12
+C0407,Enterprise,North America,13236.61,New,2024-12
+C0408,Mid-Market,EMEA,6113.05,New,2024-12
+C0409,SMB,APAC,856.59,New,2024-12
+C0410,SMB,North America,669.94,New,2024-12
+C0411,Enterprise,EMEA,20834.8,New,2024-12
+C0014,Enterprise,North America,-2836.25,Contraction,2024-12
+C0038,Mid-Market,North America,1512.89,Expansion,2024-12
+C0042,Mid-Market,EMEA,-7966.67,Churn,2024-12
+C0047,SMB,EMEA,98.6,Expansion,2024-12
+C0049,Enterprise,North America,520.86,Expansion,2024-12
+C0059,SMB,EMEA,-74.0,Contraction,2024-12
+C0060,Enterprise,North America,2633.9,Expansion,2024-12
+C0074,SMB,North America,52.97,Expansion,2024-12
+C0086,SMB,North America,67.8,Expansion,2024-12
+C0106,SMB,North America,-1988.09,Churn,2024-12
+C0114,Mid-Market,EMEA,99.72,Expansion,2024-12
+C0120,Mid-Market,EMEA,879.41,Expansion,2024-12
+C0144,Mid-Market,LATAM,-5720.49,Churn,2024-12
+C0177,Enterprise,North America,1945.18,Expansion,2024-12
+C0178,SMB,EMEA,71.11,Expansion,2024-12
+C0194,Mid-Market,North America,134.27,Expansion,2024-12
+C0196,SMB,North America,178.54,Expansion,2024-12
+C0199,Mid-Market,North America,1416.38,Expansion,2024-12
+C0210,Enterprise,EMEA,3240.17,Expansion,2024-12
+C0214,Enterprise,EMEA,136.47,Expansion,2024-12
+C0216,Mid-Market,North America,74.08,Expansion,2024-12
+C0243,Mid-Market,EMEA,65.88,Expansion,2024-12
+C0270,SMB,North America,-1054.69,Churn,2024-12
+C0272,Enterprise,APAC,-24284.38,Churn,2024-12
+C0280,SMB,North America,282.27,Expansion,2024-12
+C0281,Mid-Market,APAC,315.25,Expansion,2024-12
+C0286,SMB,North America,430.52,Expansion,2024-12
+C0287,SMB,North America,293.01,Expansion,2024-12
+C0294,Mid-Market,North America,70.71,Expansion,2024-12
+C0295,Mid-Market,EMEA,441.74,Expansion,2024-12
+C0297,Enterprise,North America,1230.41,Expansion,2024-12
+C0309,Mid-Market,APAC,654.27,Expansion,2024-12
+C0314,Mid-Market,EMEA,138.55,Expansion,2024-12
+C0317,Enterprise,North America,-1143.55,Contraction,2024-12
+C0319,Enterprise,North America,2350.49,Expansion,2024-12
+C0325,Mid-Market,EMEA,107.56,Expansion,2024-12
+C0330,SMB,North America,-1388.14,Churn,2024-12
+C0333,Mid-Market,EMEA,-5538.32,Churn,2024-12
+C0334,SMB,North America,83.58,Expansion,2024-12
+C0335,Mid-Market,APAC,201.71,Expansion,2024-12
+C0337,SMB,North America,-1880.51,Churn,2024-12
+C0345,Enterprise,North America,658.55,Expansion,2024-12
+C0349,Mid-Market,North America,379.9,Expansion,2024-12
+C0353,SMB,North America,460.17,Expansion,2024-12
+C0361,SMB,North America,-109.0,Contraction,2024-12
+C0366,SMB,North America,142.27,Expansion,2024-12
+C0370,SMB,North America,-35.47,Contraction,2024-12
+C0371,Mid-Market,North America,1568.92,Expansion,2024-12
+C0380,SMB,APAC,-765.45,Churn,2024-12
+C0385,Mid-Market,EMEA,-562.39,Contraction,2024-12
